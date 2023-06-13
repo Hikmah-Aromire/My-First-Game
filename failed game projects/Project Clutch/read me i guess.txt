@@ -1,1 +1,0 @@
-I started making this game with the "realistic" car physics i programmed as somewhat a symbol of my car physics. but not only that it's not really accurate compared to other sim games, but it's a laggy car physics to start with because at that time I don't know how to optimize a game. I decided to abandon this project because I believed that it won't gain popularity.
